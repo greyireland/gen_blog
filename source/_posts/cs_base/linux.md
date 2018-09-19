@@ -5,7 +5,7 @@ categories:
 - linux
 tags: 
 - linux
-- commend
+- cmd
 ---
 
 # linux 服务器常用命令整理
